@@ -1,0 +1,80 @@
+SRIVATHSAVA VADDEPALLY
+1-50, gopal nagar, 
+Lockport, NY 14094
+6303548948
+vathsavvaddepally@gmail.com
+05.10.2002
+
+=============================
+&nbsp;
+=============================
+
+PROFILE
+=============================
+To pursue a highly rewarding career, seeking for an opportunity in a challenging and healthy work environment, where I can utilize my skills and knowledge for an organization and personal growth.To pursue a highly rewarding career, seeking for an opportunity in a challenging and healthy work environment, where I can utilize my skills and knowledge for an organization and personal growth.
+
+EDUCATION
+=============================
+VALLURUPALLI NAGESWARA RAO VIGNANA JYOTHI INSTITUTE OF ENGINEERING &TECHNOLOGY, 2021-present
+** CSE-IOT
+CGPA - 7.75
+
+INDUR INSTITUTE OF ENGINEERING & TECHNOLOGY, 2018-2021
+** Computer Science
+CGPA - 7.36
+
+SRI VIDYARANYA AVASA VIDYALAYAM, 2017-2018
+** Schooling
+CGPA - 8.8
+
+EXPERIENCE
+=============================
+AUTOMATION TESTING ENGINEER, Cantellat pvt ltd, Hyderabad, 2023.01-2023.04
+** &nbsp;Developed and executed automated test scripts using Selenium WebDriver for web applications,&nbsp; resulting in a 20% reduction in testing time.&nbsp;Gained proficiency in creating custom test frameworks with Selenium and Python programming language, used for automating repetitive test cases.
+
+PROJECTS
+=============================
+** CRYPTOCURRENCY PRICE TRACKER
+•Web App to track the live data like Price, Volume, Change, etc for several Cryptocurrencies
+•Fetch live APIs from cryptonators using Axios
+•Auto price and another data update without refreshing every 30 seconds.
+
+** REGULATING NON-SMART APPLIANCES USING MOBILE AND ALEXA
+•Our proposed system helps people to control their non-smart appliances through voice using Alexa and can also control these devices remotely using mobile applications.
+
+SOFTWARE SKILLS
+=============================
+** Programming Language 10%
+** Web Technologies 10%
+** DataBase 10%
+
+HOBBY
+=============================
+
+STRENGTHS
+=============================
+** Leadership skills,&nbsp;
+** Communication skills,
+** &nbsp;Problem-solving skills
+
+
+PERSONAL DETAILS:
+=============================
+** Date of Birth : 05-10-2002&nbsp;
+** Sex : Male&nbsp;
+** Father’s Name : Vaddepally Bala kishan
+** &nbsp;Address : Flat no. 1-50, Ahmadipur, Gajwel – 502278.
+
+
+DECLARATION
+=============================
+I hereby declare the above-mentioned information is true to the best of my knowledge
+and that I will be responsible for any deviation from the truth of these facts.
+
+CERTIFICATIONS
+=============================
+** Completed Certification On Full Stack Development.
+** Certificate For Completion Of Data Science NPTEL (2023) –(NPTEL).
+
+
+
