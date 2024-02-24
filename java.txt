@@ -3,3 +3,9 @@ class person{
 		System.out.print("Hello");
 }
 }
+
+class person{
+	public static void main(string arg[]){
+		System.out.print("Hello UST");
+}
+}
